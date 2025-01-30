@@ -2,198 +2,190 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://www.chutney-testing.com/</loc>
-         <lastmod>2025-01-14</lastmod>
+         <lastmod>2025-01-30</lastmod>
     </url>
     <url>
-         <loc>https://www.chutney-testing.com/common/coming_soon/</loc>
-         <lastmod>2025-01-14</lastmod>
+         <loc>https://www.chutney-testing.com/alternatives/</loc>
+         <lastmod>2025-01-30</lastmod>
     </url>
     <url>
-         <loc>https://www.chutney-testing.com/documentation/campaign/</loc>
-         <lastmod>2025-01-14</lastmod>
+         <loc>https://www.chutney-testing.com/concepts/</loc>
+         <lastmod>2025-01-30</lastmod>
+    </url>
+    <url>
+         <loc>https://www.chutney-testing.com/license/</loc>
+         <lastmod>2025-01-30</lastmod>
+    </url>
+    <url>
+         <loc>https://www.chutney-testing.com/todo/</loc>
+         <lastmod>2025-01-30</lastmod>
+    </url>
+    <url>
+         <loc>https://www.chutney-testing.com/toolbox/</loc>
+         <lastmod>2025-01-30</lastmod>
     </url>
     <url>
          <loc>https://www.chutney-testing.com/documentation/dataset/</loc>
-         <lastmod>2025-01-14</lastmod>
+         <lastmod>2025-01-30</lastmod>
     </url>
     <url>
-         <loc>https://www.chutney-testing.com/documentation/environment/</loc>
-         <lastmod>2025-01-14</lastmod>
+         <loc>https://www.chutney-testing.com/documentation/write/</loc>
+         <lastmod>2025-01-30</lastmod>
     </url>
     <url>
-         <loc>https://www.chutney-testing.com/documentation/intellij_plugin/</loc>
-         <lastmod>2025-01-14</lastmod>
-    </url>
-    <url>
-         <loc>https://www.chutney-testing.com/documentation/scenario/</loc>
-         <lastmod>2025-01-14</lastmod>
-    </url>
-    <url>
-         <loc>https://www.chutney-testing.com/documentation/synchronize/</loc>
-         <lastmod>2025-01-14</lastmod>
+         <loc>https://www.chutney-testing.com/documentation/actions/</loc>
+         <lastmod>2025-01-30</lastmod>
     </url>
     <url>
          <loc>https://www.chutney-testing.com/documentation/actions/amqp/</loc>
-         <lastmod>2025-01-14</lastmod>
+         <lastmod>2025-01-30</lastmod>
     </url>
     <url>
          <loc>https://www.chutney-testing.com/documentation/actions/assertions/</loc>
-         <lastmod>2025-01-14</lastmod>
+         <lastmod>2025-01-30</lastmod>
     </url>
     <url>
-         <loc>https://www.chutney-testing.com/documentation/actions/context/</loc>
-         <lastmod>2025-01-14</lastmod>
+         <loc>https://www.chutney-testing.com/documentation/actions/extension/</loc>
+         <lastmod>2025-01-30</lastmod>
     </url>
     <url>
          <loc>https://www.chutney-testing.com/documentation/actions/groovy/</loc>
-         <lastmod>2025-01-14</lastmod>
+         <lastmod>2025-01-30</lastmod>
     </url>
     <url>
          <loc>https://www.chutney-testing.com/documentation/actions/http/</loc>
-         <lastmod>2025-01-14</lastmod>
-    </url>
-    <url>
-         <loc>https://www.chutney-testing.com/documentation/actions/introduction/</loc>
-         <lastmod>2025-01-14</lastmod>
+         <lastmod>2025-01-30</lastmod>
     </url>
     <url>
          <loc>https://www.chutney-testing.com/documentation/actions/jms/</loc>
-         <lastmod>2025-01-14</lastmod>
+         <lastmod>2025-01-30</lastmod>
     </url>
     <url>
          <loc>https://www.chutney-testing.com/documentation/actions/kafka/</loc>
-         <lastmod>2025-01-14</lastmod>
+         <lastmod>2025-01-30</lastmod>
     </url>
     <url>
          <loc>https://www.chutney-testing.com/documentation/actions/micrometer/</loc>
-         <lastmod>2025-01-14</lastmod>
+         <lastmod>2025-01-30</lastmod>
     </url>
     <url>
          <loc>https://www.chutney-testing.com/documentation/actions/mongo/</loc>
-         <lastmod>2025-01-14</lastmod>
+         <lastmod>2025-01-30</lastmod>
+    </url>
+    <url>
+         <loc>https://www.chutney-testing.com/documentation/actions/other/</loc>
+         <lastmod>2025-01-30</lastmod>
     </url>
     <url>
          <loc>https://www.chutney-testing.com/documentation/actions/radius/</loc>
-         <lastmod>2025-01-14</lastmod>
+         <lastmod>2025-01-30</lastmod>
     </url>
     <url>
          <loc>https://www.chutney-testing.com/documentation/actions/selenium/</loc>
-         <lastmod>2025-01-14</lastmod>
+         <lastmod>2025-01-30</lastmod>
     </url>
     <url>
          <loc>https://www.chutney-testing.com/documentation/actions/soap/</loc>
-         <lastmod>2025-01-14</lastmod>
+         <lastmod>2025-01-30</lastmod>
     </url>
     <url>
          <loc>https://www.chutney-testing.com/documentation/actions/sql/</loc>
-         <lastmod>2025-01-14</lastmod>
+         <lastmod>2025-01-30</lastmod>
     </url>
     <url>
          <loc>https://www.chutney-testing.com/documentation/actions/ssh/</loc>
-         <lastmod>2025-01-14</lastmod>
-    </url>
-    <url>
-         <loc>https://www.chutney-testing.com/documentation/extension/action/</loc>
-         <lastmod>2025-01-14</lastmod>
-    </url>
-    <url>
-         <loc>https://www.chutney-testing.com/documentation/extension/function/</loc>
-         <lastmod>2025-01-14</lastmod>
-    </url>
-    <url>
-         <loc>https://www.chutney-testing.com/documentation/extension/strategy/</loc>
-         <lastmod>2025-01-14</lastmod>
+         <lastmod>2025-01-30</lastmod>
     </url>
     <url>
          <loc>https://www.chutney-testing.com/documentation/functions/classpath/</loc>
-         <lastmod>2025-01-14</lastmod>
+         <lastmod>2025-01-30</lastmod>
     </url>
     <url>
          <loc>https://www.chutney-testing.com/documentation/functions/datetime/</loc>
-         <lastmod>2025-01-14</lastmod>
+         <lastmod>2025-01-30</lastmod>
     </url>
     <url>
          <loc>https://www.chutney-testing.com/documentation/functions/escape/</loc>
-         <lastmod>2025-01-14</lastmod>
+         <lastmod>2025-01-30</lastmod>
+    </url>
+    <url>
+         <loc>https://www.chutney-testing.com/documentation/functions/extension/</loc>
+         <lastmod>2025-01-30</lastmod>
     </url>
     <url>
          <loc>https://www.chutney-testing.com/documentation/functions/generate/</loc>
-         <lastmod>2025-01-14</lastmod>
-    </url>
-    <url>
-         <loc>https://www.chutney-testing.com/documentation/functions/introduction/</loc>
-         <lastmod>2025-01-14</lastmod>
+         <lastmod>2025-01-30</lastmod>
     </url>
     <url>
          <loc>https://www.chutney-testing.com/documentation/functions/json/</loc>
-         <lastmod>2025-01-14</lastmod>
-    </url>
-    <url>
-         <loc>https://www.chutney-testing.com/documentation/functions/math/</loc>
-         <lastmod>2025-01-14</lastmod>
+         <lastmod>2025-01-30</lastmod>
     </url>
     <url>
          <loc>https://www.chutney-testing.com/documentation/functions/micrometer/</loc>
-         <lastmod>2025-01-14</lastmod>
+         <lastmod>2025-01-30</lastmod>
     </url>
     <url>
          <loc>https://www.chutney-testing.com/documentation/functions/network/</loc>
-         <lastmod>2025-01-14</lastmod>
+         <lastmod>2025-01-30</lastmod>
     </url>
     <url>
          <loc>https://www.chutney-testing.com/documentation/functions/nullable/</loc>
-         <lastmod>2025-01-14</lastmod>
+         <lastmod>2025-01-30</lastmod>
     </url>
     <url>
          <loc>https://www.chutney-testing.com/documentation/functions/soap/</loc>
-         <lastmod>2025-01-14</lastmod>
+         <lastmod>2025-01-30</lastmod>
     </url>
     <url>
          <loc>https://www.chutney-testing.com/documentation/functions/string/</loc>
-         <lastmod>2025-01-14</lastmod>
+         <lastmod>2025-01-30</lastmod>
     </url>
     <url>
          <loc>https://www.chutney-testing.com/documentation/functions/wiremock/</loc>
-         <lastmod>2025-01-14</lastmod>
+         <lastmod>2025-01-30</lastmod>
     </url>
     <url>
          <loc>https://www.chutney-testing.com/documentation/functions/xpath/</loc>
-         <lastmod>2025-01-14</lastmod>
+         <lastmod>2025-01-30</lastmod>
     </url>
     <url>
-         <loc>https://www.chutney-testing.com/getting_started/demo/</loc>
-         <lastmod>2025-01-14</lastmod>
+         <loc>https://www.chutney-testing.com/getting_started/intellij_plugin/</loc>
+         <lastmod>2025-01-30</lastmod>
     </url>
     <url>
          <loc>https://www.chutney-testing.com/getting_started/requirements/</loc>
-         <lastmod>2025-01-14</lastmod>
+         <lastmod>2025-01-30</lastmod>
     </url>
     <url>
          <loc>https://www.chutney-testing.com/getting_started/run/</loc>
-         <lastmod>2025-01-14</lastmod>
+         <lastmod>2025-01-30</lastmod>
     </url>
     <url>
          <loc>https://www.chutney-testing.com/getting_started/write/</loc>
-         <lastmod>2025-01-14</lastmod>
+         <lastmod>2025-01-30</lastmod>
     </url>
     <url>
-         <loc>https://www.chutney-testing.com/installation/advanced_topics/</loc>
-         <lastmod>2025-01-14</lastmod>
+         <loc>https://www.chutney-testing.com/installation/advance_topics/</loc>
+         <lastmod>2025-01-30</lastmod>
     </url>
     <url>
          <loc>https://www.chutney-testing.com/installation/local_dev/</loc>
-         <lastmod>2025-01-14</lastmod>
+         <lastmod>2025-01-30</lastmod>
+    </url>
+    <url>
+         <loc>https://www.chutney-testing.com/installation/ci_cd/scenario_sync/</loc>
+         <lastmod>2025-01-30</lastmod>
+    </url>
+    <url>
+         <loc>https://www.chutney-testing.com/installation/on_premise/</loc>
+         <lastmod>2025-01-30</lastmod>
     </url>
     <url>
          <loc>https://www.chutney-testing.com/installation/on_premise/details/</loc>
-         <lastmod>2025-01-14</lastmod>
-    </url>
-    <url>
-         <loc>https://www.chutney-testing.com/installation/on_premise/introduction/</loc>
-         <lastmod>2025-01-14</lastmod>
+         <lastmod>2025-01-30</lastmod>
     </url>
     <url>
          <loc>https://www.chutney-testing.com/installation/on_premise/minimal_conf/</loc>
-         <lastmod>2025-01-14</lastmod>
+         <lastmod>2025-01-30</lastmod>
     </url>
 </urlset>
