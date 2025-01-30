@@ -5,23 +5,11 @@
          <lastmod>2025-01-30</lastmod>
     </url>
     <url>
-         <loc>https://www.chutney-testing.com/alternatives/</loc>
+         <loc>https://www.chutney-testing.com/common/coming_soon/</loc>
          <lastmod>2025-01-30</lastmod>
     </url>
     <url>
-         <loc>https://www.chutney-testing.com/concepts/</loc>
-         <lastmod>2025-01-30</lastmod>
-    </url>
-    <url>
-         <loc>https://www.chutney-testing.com/license/</loc>
-         <lastmod>2025-01-30</lastmod>
-    </url>
-    <url>
-         <loc>https://www.chutney-testing.com/todo/</loc>
-         <lastmod>2025-01-30</lastmod>
-    </url>
-    <url>
-         <loc>https://www.chutney-testing.com/toolbox/</loc>
+         <loc>https://www.chutney-testing.com/documentation/campaign/</loc>
          <lastmod>2025-01-30</lastmod>
     </url>
     <url>
@@ -29,11 +17,19 @@
          <lastmod>2025-01-30</lastmod>
     </url>
     <url>
-         <loc>https://www.chutney-testing.com/documentation/write/</loc>
+         <loc>https://www.chutney-testing.com/documentation/environment/</loc>
          <lastmod>2025-01-30</lastmod>
     </url>
     <url>
-         <loc>https://www.chutney-testing.com/documentation/actions/</loc>
+         <loc>https://www.chutney-testing.com/documentation/intellij_plugin/</loc>
+         <lastmod>2025-01-30</lastmod>
+    </url>
+    <url>
+         <loc>https://www.chutney-testing.com/documentation/scenario/</loc>
+         <lastmod>2025-01-30</lastmod>
+    </url>
+    <url>
+         <loc>https://www.chutney-testing.com/documentation/synchronize/</loc>
          <lastmod>2025-01-30</lastmod>
     </url>
     <url>
@@ -45,7 +41,7 @@
          <lastmod>2025-01-30</lastmod>
     </url>
     <url>
-         <loc>https://www.chutney-testing.com/documentation/actions/extension/</loc>
+         <loc>https://www.chutney-testing.com/documentation/actions/context/</loc>
          <lastmod>2025-01-30</lastmod>
     </url>
     <url>
@@ -54,6 +50,10 @@
     </url>
     <url>
          <loc>https://www.chutney-testing.com/documentation/actions/http/</loc>
+         <lastmod>2025-01-30</lastmod>
+    </url>
+    <url>
+         <loc>https://www.chutney-testing.com/documentation/actions/introduction/</loc>
          <lastmod>2025-01-30</lastmod>
     </url>
     <url>
@@ -70,10 +70,6 @@
     </url>
     <url>
          <loc>https://www.chutney-testing.com/documentation/actions/mongo/</loc>
-         <lastmod>2025-01-30</lastmod>
-    </url>
-    <url>
-         <loc>https://www.chutney-testing.com/documentation/actions/other/</loc>
          <lastmod>2025-01-30</lastmod>
     </url>
     <url>
@@ -97,6 +93,18 @@
          <lastmod>2025-01-30</lastmod>
     </url>
     <url>
+         <loc>https://www.chutney-testing.com/documentation/extension/action/</loc>
+         <lastmod>2025-01-30</lastmod>
+    </url>
+    <url>
+         <loc>https://www.chutney-testing.com/documentation/extension/function/</loc>
+         <lastmod>2025-01-30</lastmod>
+    </url>
+    <url>
+         <loc>https://www.chutney-testing.com/documentation/extension/strategy/</loc>
+         <lastmod>2025-01-30</lastmod>
+    </url>
+    <url>
          <loc>https://www.chutney-testing.com/documentation/functions/classpath/</loc>
          <lastmod>2025-01-30</lastmod>
     </url>
@@ -109,15 +117,19 @@
          <lastmod>2025-01-30</lastmod>
     </url>
     <url>
-         <loc>https://www.chutney-testing.com/documentation/functions/extension/</loc>
-         <lastmod>2025-01-30</lastmod>
-    </url>
-    <url>
          <loc>https://www.chutney-testing.com/documentation/functions/generate/</loc>
          <lastmod>2025-01-30</lastmod>
     </url>
     <url>
+         <loc>https://www.chutney-testing.com/documentation/functions/introduction/</loc>
+         <lastmod>2025-01-30</lastmod>
+    </url>
+    <url>
          <loc>https://www.chutney-testing.com/documentation/functions/json/</loc>
+         <lastmod>2025-01-30</lastmod>
+    </url>
+    <url>
+         <loc>https://www.chutney-testing.com/documentation/functions/math/</loc>
          <lastmod>2025-01-30</lastmod>
     </url>
     <url>
@@ -149,7 +161,7 @@
          <lastmod>2025-01-30</lastmod>
     </url>
     <url>
-         <loc>https://www.chutney-testing.com/getting_started/intellij_plugin/</loc>
+         <loc>https://www.chutney-testing.com/getting_started/demo/</loc>
          <lastmod>2025-01-30</lastmod>
     </url>
     <url>
@@ -165,7 +177,7 @@
          <lastmod>2025-01-30</lastmod>
     </url>
     <url>
-         <loc>https://www.chutney-testing.com/installation/advance_topics/</loc>
+         <loc>https://www.chutney-testing.com/installation/advanced_topics/</loc>
          <lastmod>2025-01-30</lastmod>
     </url>
     <url>
@@ -173,15 +185,11 @@
          <lastmod>2025-01-30</lastmod>
     </url>
     <url>
-         <loc>https://www.chutney-testing.com/installation/ci_cd/scenario_sync/</loc>
-         <lastmod>2025-01-30</lastmod>
-    </url>
-    <url>
-         <loc>https://www.chutney-testing.com/installation/on_premise/</loc>
-         <lastmod>2025-01-30</lastmod>
-    </url>
-    <url>
          <loc>https://www.chutney-testing.com/installation/on_premise/details/</loc>
+         <lastmod>2025-01-30</lastmod>
+    </url>
+    <url>
+         <loc>https://www.chutney-testing.com/installation/on_premise/introduction/</loc>
          <lastmod>2025-01-30</lastmod>
     </url>
     <url>
