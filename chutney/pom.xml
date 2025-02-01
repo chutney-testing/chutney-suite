@@ -57,7 +57,7 @@
         <commonsio.version>2.17.0</commonsio.version>
         <hjson.version>3.1.0</hjson.version>
         <jsr305.version>3.0.2</jsr305.version>
-        <liquibase.version>4.29.2</liquibase.version>
+        <liquibase.version>4.31.0</liquibase.version>
 
         <!-- action-impl dependencies versions -->
         <sshj.version>0.39.0</sshj.version>
