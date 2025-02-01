@@ -73,7 +73,7 @@
 
         <!-- test dependencies versions -->
         <jqwik.version>1.9.1</jqwik.version>
-        <wiremock.version>3.9.1</wiremock.version>
+        <wiremock.version>3.11.0</wiremock.version>
         <lucene.version>9.12.0</lucene.version>
     </properties>
 
